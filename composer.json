@@ -1,0 +1,14 @@
+{
+  "name": "drupal/service_club_passwords",
+  "type": "drupal-module",
+  "description": "Removes passwords from user creation.",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/service_club_passwords",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/service_club_passwords",
+    "source": "http://cgit.drupalcode.org/service_club_passwords"
+  },
+  "require": { }
+}
