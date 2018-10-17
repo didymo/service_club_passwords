@@ -1,5 +1,5 @@
 {
-  "name": "drupal/service_club_passwords",
+  "name": "didymo/service_club_passwords",
   "type": "drupal-module",
   "description": "Removes passwords from user creation.",
   "keywords": ["Drupal"],
